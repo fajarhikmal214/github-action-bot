@@ -1,1 +1,1 @@
-# github-action-bot
+# Github Action Bot
